@@ -1,0 +1,13 @@
+{
+  "name": "meridian-gemini-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server-side Gemini backend for Meridian",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
